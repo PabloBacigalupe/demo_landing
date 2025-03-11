@@ -1,0 +1,4 @@
+git status --> estado
+git add . --> para añadir los cambios que quiero subir
+git commit -m "mensaje a enviar" --> para confirmar los cambios
+git push --> publicar en repo en la nube
